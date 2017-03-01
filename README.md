@@ -2,11 +2,11 @@ ICE: Image Collections Explorer
 ================================
 
 ICE is an interactive exploration platform to visualise large image collections. 
-The image collecction has been structured in a hierarchical and graph-based hybrid structure.
+The image collection has been structured in a hierarchical and graph-based hybrid structure.
 
 
 ICE has been developed during my PhD, entitled *Interactive, incremental and multi-level exploration of large collections of images*.
-This PhD has been defended in November the 22nd, 2016 in the University François-Rabelais of Tours.
+This PhD has been defended in November the 22nd, 2016 in the University FranÃ§ois-Rabelais of Tours.
 
 
 ICE can be tested online in my homepage: [http://frederic.rayar.free.fr/ice/](http://frederic.rayar.free.fr/ice/)
